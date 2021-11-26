@@ -1,5 +1,4 @@
 import './App.css';
-import ItemCount from './Components/ItemCount/ItemCount.jsx'
 import ItemListContainer from './Components/ItemListContainer/ItemListContainer.jsx'
 
 
